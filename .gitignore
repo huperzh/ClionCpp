@@ -1,0 +1,11 @@
+build/
+
+*.dll
+*.exe
+*.db
+*.rcc
+
+.vs
+.vscode
+.gitignore
+.idea
